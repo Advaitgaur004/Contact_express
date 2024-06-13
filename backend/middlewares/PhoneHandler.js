@@ -9,7 +9,7 @@ const PhoneHandler = (req, res, next) => {
     res.status(400);
     throw new Error("Phone number should be of 10 digits");
   }
-  // all elements should be numbers in phone
+  
   if (!Phone.match(/^[0-9]+$/)) {
     res.status(400);
     throw new Error("Phone number should be a number");
