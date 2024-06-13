@@ -9,8 +9,7 @@ logs/
 dist/
 
 # Environment variables
-./backend/config.env
-
+*/config.env
 # IDE files
 .vscode/
 .idea/
