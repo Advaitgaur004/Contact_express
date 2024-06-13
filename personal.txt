@@ -1,0 +1,16 @@
+username : advaitgaur2003
+password : TgNY0L5Wpehttfo7
+
+mongoDB advaitcluster01 
+named testing_express
+in programming/express/testing_express
+
+
+username : advaitgaur2003
+password : rjIPQzJalPvwlEJG
+
+mongodb+srv://advaitgaur2003:rjIPQzJalPvwlEJG@advaitcluster00.pfqjnbd.mongodb.net/
+
+mongoDB advaitcluster00 
+named StartUP
+in programming/express/StartUp
