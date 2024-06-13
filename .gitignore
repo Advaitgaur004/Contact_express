@@ -10,7 +10,6 @@ dist/
 
 # Environment variables
 */config.env
-
 # IDE files
 .vscode/
 .idea/
